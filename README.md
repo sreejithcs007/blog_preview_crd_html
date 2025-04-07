@@ -2,6 +2,10 @@
 
 A clean and responsive blog card layout built with HTML and CSS. This card highlights a blog post with an image, title, subtitle, author, and publish date.
 
+## 🔗 Link
+
+Live Site URL : https://sreejithcs007.github.io/blog_preview_crd_html/
+
 ## 🖼️ Preview
 
 ![blog preview](https://github.com/user-attachments/assets/6b04eaf1-35b2-430d-bfea-025fefa84a3e)
